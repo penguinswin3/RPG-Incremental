@@ -6,6 +6,6 @@ public class MainButtonClick : MonoBehaviour {
 	public GameObject textBox;
 
 	public void ClickTheButton(){
-		textBox.SetActive (true);
+	        	textBox.SetActive (true);
 	}
 }
